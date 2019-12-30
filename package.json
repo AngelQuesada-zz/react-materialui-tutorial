@@ -1,7 +1,7 @@
 {
-  "name": "react-and-material-design",
+  "name": "react-materialui-tutorial",
   "version": "1.0.0",
-  "description": "Tutorial de cómo utilizar material UI con react",
+  "description": "Proyecto de react para aprender a utilizar material-ui",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
