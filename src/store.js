@@ -1,3 +1,5 @@
+// Fichero destinado a exportar datos
+
 export const muscles = [
   'shoulders', 'chest', 'arms', 'back', 'legs'
 ]
